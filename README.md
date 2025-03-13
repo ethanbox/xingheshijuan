@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./public/logo.png" alt="logo" style="height: 150px; width:150px;"/>
+    <img src="./public/favicon.svg" alt="logo" style="height: 150px; width:150px;"/>
 </p>
 
 <h1 align="center">星河诗卷</h1>
