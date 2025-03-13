@@ -22,12 +22,9 @@
 
 ## 贡献者
 
-<div align="center">
-    <a href="https://github.com/ethanbox/xingheshijuan/graphs/contributors">
-        <img src="https://contrib.rocks/image?repo=ethanbox/xingheshijuan" />
-    </a>
-</div>
-
+<a href="https://github.com/ethanbox/xingheshijuan/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=ethanbox/xingheshijuan" />
+</a>
 
 ## Star History
 
